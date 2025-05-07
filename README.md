@@ -54,7 +54,7 @@ The **Book Management Application** is a web-based system built using Spring Boo
 ## Video Demo
 
 Check out the video demonstration of the application here:  
-[Watch the video](demo.mov)
+[Watch the video](https://youtu.be/SOdH4qJMC8M)
 
 ## Project Structure
 
